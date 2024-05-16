@@ -16,7 +16,9 @@
 <a href="https://www.instagram.com/its_shivasourav/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-![Luffy](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWk4cDRndTBkcG96dnM3cWVzNGxvdjdnanBnbW5hbDFhZXhyN2dmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oNCBgd6AFW9CRiu91j/giphy.gif)
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Q0bGcwMTlmNWJrc3pyZnJjYTY2NGxta215N2YyZHR1bzB4ejJ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4eRarrNSZSU0/giphy.gif" width="400" />
+</div>
 </p>
 
 ---
